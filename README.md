@@ -47,3 +47,9 @@ timetable
 2. 焼きなまし法＋山登り法
 3. 焼きなまし法＋大洪水法
 4. 焼きなまし法＋大洪水法＆局所探索法
+
+## 開発言語
+Python
+
+## 作成者
+[kakke18](https://github.com/kakke18)
